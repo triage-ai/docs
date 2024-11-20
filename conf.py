@@ -36,6 +36,6 @@ html_context = {
   'display_github': True,
   'github_user': 'shivamrpatel',
   'github_repo': 'docs',
-  'github_version': 'master/docs/',
+  'github_version': 'master/',
 }
 
