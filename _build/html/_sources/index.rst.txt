@@ -12,6 +12,34 @@ documentation for details.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: Getting Started
+
+   Getting Started/Installation
+   Getting Started/Post-Installation
+   Getting Started/Email Settings
+   Getting Started/Email Templates
+   Getting Started/IMAP Settings
+   Getting Started/Email Piping
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Guides
+
+   Guides/Agent Guide
+   Guides/User Guide
+   Guides/Ticket Guide
+   Guides/Email Guide
+   Guides/Dashboard Guide
+   Guides/Manage Pages
+
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Plugins
+
+   Plugins/Attachments with S3
+
 
