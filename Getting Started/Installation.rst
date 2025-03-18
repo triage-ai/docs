@@ -17,6 +17,9 @@ And one for the backend in the root directory of that folder with the following 
  SECURITY_PASSWORD_SALT="SECURITY_PASSWORD_SALT_HERE"
  FRONTEND_URL="YOUR_FRONTEND_URL"
 
+Make sure the database url is the absolute path and not the relative path. For example a sqlite database would have a url like ***'sqlite:///triage_app/YOUR_DATABASE_NAME'***. A database will be created in the project directory if
+no database already exists.
+
 You can obtain the secret key and security password salt by running the following code in a Python file:
 
 .. code-block:: python
