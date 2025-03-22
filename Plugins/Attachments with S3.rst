@@ -55,7 +55,7 @@ Click 'Add Statement' and then 'Generate Policy.' Copy the policy generated and 
 
 
 Creating an IAM User and Policy
------------------------------
+-----------------------------------
 
 To ensure this application is the only 'user' making updates to the bucket, you will need to create an IAM user and provide it with the proper policies. 
 

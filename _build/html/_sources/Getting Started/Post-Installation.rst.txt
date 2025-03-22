@@ -4,12 +4,12 @@ Post-Install Setup Guide
 Once triage.ai has been installed, you must configure it via the manage panel before it is entirely usable. Only staff with admin privileges can access the manage panel. A temporary admin will be created when the server is first run with an email of 'admin@test.com' and password 'admin.' Once an actual staff member is created with the admin status, this temporary admin can be deleted.
 
 Email Setup
------------
+-------------
 
 triage.ai allows you to route an unlimited number of emails as incoming tickets. For detailed instructions, please see :doc:`Email Settings Guide <Email Settings>`.
 
 Attachment Setup
------------
+-------------------
 
 triage.ai allows for attachments to be included with web tickets and tickets created through emails. For detailed instructions, please see :doc:`Attachments Guide <../Plugins/Attachments with S3>`.
 
