@@ -43,3 +43,8 @@ Whether it's managing support tickets, automating workflows, or improving respon
    Plugins/Attachments with S3
 
 
+.. sidebar-links::
+   :github:
+   :caption: Projects
+
+

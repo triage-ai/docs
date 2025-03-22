@@ -7,15 +7,16 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'triage.ai'
-copyright = '2024, Shivam Patel'
+copyright = '2025, triage.ai'
 author = 'Shivam Patel'
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = []
-
+extensions = ['sphinx_toolbox.sidebar_links', 'sphinx_toolbox.github', 'sphinx_new_tab_link']
+github_username = 'triage-ai'
+github_repository = 'triage'
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
