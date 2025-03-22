@@ -6,9 +6,9 @@
 triage.ai documentation
 =======================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+triage.ai is an AI-native support platform built specifically for B2B companies, designed to streamline and enhance customer service operations. 
+Our platform helps businesses scale by automating communication across multiple channels, including email, Discord, Slack, Microsoft Teams, and more. 
+Whether it's managing support tickets, automating workflows, or improving response efficiency, Triage.ai enables teams to provide seamless and scalable support without added complexity.
 
 
 .. toctree::
