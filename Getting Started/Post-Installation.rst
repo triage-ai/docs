@@ -1,7 +1,7 @@
 Post-Install Setup Guide
 ========================
 
-Once triage.ai has been installed, you must configure it via the manage panel before it is entirely usable. Only staff with admin privileges can access the manage panel. A temporary admin will be created when the server is first run with an email of 'admin@test.com' and password 'admin.' Once an actual staff member is created with the admin status, this temporary admin can be deleted.
+Once triage.ai has been installed, you must configure it via the manage panel before it is entirely usable. Only staff with admin privileges can access the manage panel. A temporary admin will be created when the server is first run with an email of 'admin@test.com' and password 'admin.' Once an actual staff member is created with the admin status, this temporary admin can be deleted. You will need to ressign agents to be the new default agent linked to the department and topic when this is done.
 
 Email Setup
 -------------
